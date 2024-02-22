@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Bitirix24 Stage Selector
+// @name         Bitrix24 Stage Selector
 // @namespace    https://crm.globaldrive.ru/
 // @version      2024-02-22
 // @description  Better Tasks Stage Selector
